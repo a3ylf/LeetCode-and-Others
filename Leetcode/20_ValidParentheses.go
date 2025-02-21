@@ -1,4 +1,4 @@
-package Leetcode
+package main
 
 type Stack []interface{}
 
